@@ -10,3 +10,4 @@
 - Created histogram for each numeric column
 - Created distribution plot for each numeric column
 - Created ECDF plot for each numeric column
+- Created boxplot for each numeric column
